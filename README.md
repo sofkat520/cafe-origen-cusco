@@ -1,5 +1,7 @@
 # ☕ Café Origen Cusco
 
+https://cafeorigencusco.freehosting.dev/#tienda
+
 Sitio web funcional y tienda básica para **Café Origen Cusco**, una cafetería de especialidad en Cusco, Perú, que vende bebidas preparadas y granos de café de origen (La Convención, Quillabamba). Proyecto académico de desarrollo web con backend en **PHP 8 nativo** y base de datos **MySQL**.
 
 ## ✨ Características
